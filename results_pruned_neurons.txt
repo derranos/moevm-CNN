@@ -1,0 +1,3 @@
+Top-1 Accuracy (pruned): 0.8645
+Inference Time (pruned): 262.27 seconds
+Pruned neurons: 4.96% (10597/213836)

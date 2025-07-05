@@ -1,0 +1,5 @@
+Top-1 Accuracy (before pruning): 0.9842
+Inference Time (before pruning): 302.58 seconds
+Top-1 Accuracy (pruned): 0.9679
+Inference Time (pruned): 281.93 seconds
+Pruned weights: 0.19% (101522/52498504)
