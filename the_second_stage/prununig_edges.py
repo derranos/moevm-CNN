@@ -55,7 +55,6 @@ def count_pruned_weights(model):
             pruned += np.sum(weight == 0)
     return pruned, total
 
-# --- ДОБАВЛЕНО: Инференс и метрики до прунинга ---
 start_time = time.time()
 predictions_before = []
 with torch.no_grad():
